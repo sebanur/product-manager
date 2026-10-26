@@ -1,17 +1,40 @@
-# React + Vite
+# 🛍️ Product Manager
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive **Product Management Application** built with React and Redux Toolkit. It allows users to add, update, delete, search, and manage products through a user-friendly interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 📌 Project Purpose
 
-## React Compiler
+This project was developed to practice CRUD operations with React, centralized state management using Redux Toolkit, and navigation with React Router DOM.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### ✨ Key Features
 
-## Expanding the ESLint configuration
+- Add, update, and delete products (CRUD)
+- Real-time product search and filtering
+- Product sorting by price
+- Product image upload and preview
+- Centralized state management with Redux Toolkit
+- Dynamic routing with React Router DOM
+- Reusable and modular React components
+- Modal-based product creation and editing
+- Modern and responsive user interface
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# product-manager
+---
+
+## 🛠️ Technologies Used
+
+- **React** – Component-based user interface
+- **Redux Toolkit** – State management
+- **React Redux** – React and Redux integration
+- **React Router DOM** – Dynamic routing
+- **Tailwind CSS** – Responsive styling
+- **Vite** – Fast development environment
+- **JavaScript (ES6+)** – Application functionality
+- **React Icons** – UI icons
+
+---
+
+## 🖥️ Project Preview
+
+![](product-manager.gif)
